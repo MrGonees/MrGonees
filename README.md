@@ -20,15 +20,13 @@
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280">
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🚀 Tech Stack
 
