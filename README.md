@@ -5,8 +5,11 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 💼 Software Developer
 - 🌱 Currently learning Laravel & Modern PHP
@@ -14,6 +17,16 @@
 - 📄 Experienced with PDF & Excel Automation
 - 💾 Database Design & Optimization
 - 🇮🇩 Indonesia
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,20 +57,6 @@
 ![DataTables](https://img.shields.io/badge/DataTables-informational?style=for-the-badge)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=MrGonees&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGonees&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
