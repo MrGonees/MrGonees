@@ -1,16 +1,139 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Mas Ganteng
 
-<!--
-**MrGonees/MrGonees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Developer;PHP+Developer;Backend+Developer;Accounting+System+Developer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Software Developer
+- 🌱 Currently learning Laravel & Modern PHP
+- 🛠 Developing Accounting & Inventory Systems
+- 📄 Experienced with PDF & Excel Automation
+- 💾 Database Design & Optimization
+- 🇮🇩 Indonesia
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
+</p>
+
+### Framework & Library
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,github,vscode" />
+</p>
+
+### Other Tools
+
+<p>
+
+![mPDF](https://img.shields.io/badge/mPDF-red?style=for-the-badge)
+
+![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-blue?style=for-the-badge)
+
+![AJAX](https://img.shields.io/badge/AJAX-success?style=for-the-badge)
+
+![DataTables](https://img.shields.io/badge/DataTables-informational?style=for-the-badge)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📊 Accounting System | Financial & Journal Management |
+| 📦 Inventory System | Warehouse & Stock Management |
+| 🏭 Fixed Asset System | Asset & Depreciation Management |
+| 📄 PDF Generator | mPDF Report Generator |
+| 📈 Excel Export | PhpSpreadsheet Automation |
+| 🔐 User Management | Role & Permission System |
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=USERNAME_GITHUB&style=for-the-badge)
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer"/>
+
+</p>
