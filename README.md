@@ -7,9 +7,7 @@
 ---
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" alt="Coding" width="320" src="LINK_GIF_DISINI">
 
 - 💼 Software Developer
 - 🌱 Currently learning Laravel & Modern PHP
@@ -17,16 +15,9 @@
 - 📄 Experienced with PDF & Excel Automation
 - 💾 Database Design & Optimization
 - 🇮🇩 Indonesia
+- ☕ Coffee + Music + Coding
 
-</td>
-
-<td width="40%" align="right">
-
-<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ## 🚀 Tech Stack
 
