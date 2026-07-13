@@ -77,19 +77,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GIT
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGonees&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
