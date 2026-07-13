@@ -22,7 +22,7 @@
 
 <td width="40%" align="right">
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 </td>
 </tr>
