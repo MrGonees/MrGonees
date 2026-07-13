@@ -67,7 +67,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGonees&lay
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MrGonees&theme=tokyonight&hide_border=true"/>
 
 </p>
 
