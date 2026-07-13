@@ -74,7 +74,7 @@
 ## 👾 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/MrGonees/MrGonees/output/pacman-contribution-graph.svg">
 </p>
 
 ---
