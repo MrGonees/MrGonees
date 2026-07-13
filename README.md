@@ -7,7 +7,7 @@
 ---
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif">
+<img align="right" width="350" src="[https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)">
 
 - 💼 Software Developer
 - 🌱 Currently learning Laravel & Modern PHP
