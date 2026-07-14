@@ -23,7 +23,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,laravel" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,laravel,filament" />
 </p>
 
 ### Framework & Library
