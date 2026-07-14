@@ -14,7 +14,6 @@
 - 🛠 Developing Accounting & Inventory Systems
 - 📄 Experienced with PDF & Excel Automation
 - 💾 Database Design & Optimization
-- 🇮🇩 Indonesia
 - ☕ Coffee + Music + Coding
 
 <br clear="right"/>
@@ -24,7 +23,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,laravel" />
 </p>
 
 ### Framework & Library
@@ -42,8 +41,6 @@
 ![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-blue?style=for-the-badge)
 
 ![AJAX](https://img.shields.io/badge/AJAX-success?style=for-the-badge)
-
-![DataTables](https://img.shields.io/badge/DataTables-informational?style=for-the-badge)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
 
