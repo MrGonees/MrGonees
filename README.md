@@ -68,10 +68,24 @@
 
 ---
 
-## 👾 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrGonees/MrGonees/output/pacman-contribution-graph.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrGonees&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrGonees&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGonees&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<h2 align="center">🐍 Eating my Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrGonees/MrGonees/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
