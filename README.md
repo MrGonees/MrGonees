@@ -29,7 +29,7 @@
 ### Framework & Library
 
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,github,vscode,tailwind" />
 </p>
 
 ### Other Tools
