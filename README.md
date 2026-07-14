@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Gilang Pratama
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Developer+At+Cargloss;PHP+Developer;Backend+Developer;Accounting+System+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Developer+At+Cargloss+Group;PHP+Developer;Backend+Developer;Accounting+System+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -9,12 +9,11 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
 
-- 💼 Software Developer
+- 💼 Software Developer At Cargloss Group
 - 🌱 Currently learning Laravel & Modern PHP
 - 🛠 Developing Accounting & Inventory Systems
 - 📄 Experienced with PDF & Excel Automation
 - 💾 Database Design & Optimization
-- 🇮🇩 Indonesia
 - ☕ Coffee + Music + Coding
 
 <br clear="right"/>
@@ -24,13 +23,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,laravel,filament" />
 </p>
 
 ### Framework & Library
 
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,git,github,vscode,tailwind" />
 </p>
 
 ### Other Tools
@@ -42,8 +41,6 @@
 ![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-blue?style=for-the-badge)
 
 ![AJAX](https://img.shields.io/badge/AJAX-success?style=for-the-badge)
-
-![DataTables](https://img.shields.io/badge/DataTables-informational?style=for-the-badge)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
 
@@ -71,10 +68,24 @@
 
 ---
 
-## 👾 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/pacman-contribution-graph.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrGonees&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrGonees&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGonees&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<h2 align="center">🐍 Eating my Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrGonees/MrGonees/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
