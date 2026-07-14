@@ -68,15 +68,6 @@
 
 ---
 
-
-<h2 align="center">🐍 Eating my Contributions</h2>
-
-<p align="center">
-<img width="700" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</p>
-
----
-
 # 💼 Featured Projects
 
 | Project | Description |
