@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Gilang Pratama
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Developer+At+Cargloss;PHP+Developer;Backend+Developer;Accounting+System+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Software+Developer+At+Cargloss+Group;PHP+Developer;Backend+Developer;Accounting+System+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
